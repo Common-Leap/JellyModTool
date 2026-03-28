@@ -1,6 +1,6 @@
 # JellyModTool
 
-A companion GUI app for creating and managing mods for **JellyCar** (Switch/Vita port).
+A companion GUI app for creating and managing mods for **JellyCarNX** (Switch port).
 
 Built with PyQt6.
 
