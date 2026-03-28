@@ -42,3 +42,7 @@ Mods are folders containing:
 - `mod.xml` — manifest (type, name, file reference)
 - The asset file (`.scenec` for levels, `.ogg`/`.mp3` for music, `.png` for skins)
 - `thumb.png` — optional preview image shown in-game
+
+## How to use
+
+Place mods in a folder named JellyMods inside the folder where you put the JellyCar nro
